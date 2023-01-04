@@ -1,4 +1,4 @@
-# tkinter_file_orginizer
+# tkinter_file_organizer
 This project is for beginners who wants to practice os modüle with python
 
 
